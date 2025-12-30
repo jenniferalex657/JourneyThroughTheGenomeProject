@@ -1,0 +1,4 @@
+Final Game Results
+Name: jenny | Exp: 5 | Acc: 1000 | Eff: 1000 | Ins: 2000 | DP: 56300
+Name: lily | Exp: 12 | Acc: 1400 | Eff: 1200 | Ins: 1500 | DP: 57600
+Winner: lily | DP: 57600
